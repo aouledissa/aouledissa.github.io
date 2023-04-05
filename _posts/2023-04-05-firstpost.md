@@ -7,3 +7,9 @@ tags: [hello]
 # Hello World!
 
 First blog post
+
+```kotlin
+fun helloWorld() {
+    println("Hello world!")
+}
+```
