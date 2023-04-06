@@ -37,7 +37,7 @@ fun isLollipopOrAbove(): Boolean = Build.VERSION.SDK_INT >= Build.VERSION_CODES.
 ```
 {: file="SdkUtils.kt" }
 
-Now can rewrite the previous code as the following:
+Now we can rewrite the previous code as the following:
 
 ```kotlin
 when {
