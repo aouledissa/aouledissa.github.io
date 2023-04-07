@@ -155,6 +155,6 @@ To verify whether or not the `GA 4` integration is successful:
 2. On the left pane, click on __Reports__
 3. Click on __Realtime__ to view your traffic in realtime. At this stage I would advise using a different browser or invalidate the browser's cache.
 
-You should see traffic comming in in the dashboard as you visit your site. Since we have configured the `gtag` script into the `<head>` section, it should now be a part of each an every page of your jekyll blog. This way Google analytics can track all the page views (PV).
+You should see traffic comming in in the dashboard as you visit your site. Since we have configured the `gtag` script into the `<head>` section, it should now be a part of each an every page of your jekyll blog. This way Google analytics can track all the page views (pv).
 
 😌 And as always happy coding and may the **Source** be with you!
