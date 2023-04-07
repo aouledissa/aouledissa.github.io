@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Better Android Backward Compatibility Checks 👍"
-data: 2023-04-05 03:43:00
+date: 2023-04-05 03:43:00
 category: Android
 tags: [android,backward-compatibility]
 ---
