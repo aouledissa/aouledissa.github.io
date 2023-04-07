@@ -27,7 +27,7 @@ Before we begin we will need 2 things:
 
 ### Create a Google Analytics 4 account
 
-In case you happen to already have a GA 4 account then you can skip directly to this [section](#configure-gtag-script-globally)!
+In case you happen to already have a GA 4 account then you can skip directly to this [section](#configure-gtag-script-globally-)!
 
 1. Visit [https://analytics.google.com/](https://analytics.google.com/) and click "Start Measuring."
 2. Input your preferred Account Name and select the appropriate checkboxes.
