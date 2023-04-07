@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Google Analytics 4 (GA 4) Integration With Chirpy Theme 📊"
-date: 2023-07-04 22:33:48
+date: 2023-04-07 22:33
 categories: [Jekyll,setup]
 tags: [jekyll,GA4,chirpy]
 toc: true
