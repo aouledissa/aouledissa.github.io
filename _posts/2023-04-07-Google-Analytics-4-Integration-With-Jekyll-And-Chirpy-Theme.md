@@ -157,4 +157,4 @@ To verify whether or not the `GA 4` integration is successful:
 
 You should see traffic comming in in the dashboard as you visit your site. Since we have configured the `gtag` script into the `<head>` section, it should now be a part of each an every page of your jekyll blog. This way Google analytics can track all the page views (pv).
 
-😌 And as always happy coding and may the **Source** be with you! 
+😌 And as always happy coding and may the **Source** be with you!
