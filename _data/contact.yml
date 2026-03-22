@@ -7,12 +7,12 @@
   icon: 'fab fa-stack-overflow'
   url:  'https://stackoverflow.com/users/2057782/aouledissa'                  # Fill with your stackoverflow homepage
 
-- type: twitter
-  icon: "fab fa-twitter"
+# - type: twitter
+  # icon: "fab fa-twitter"
 
-- type: linkedin
-  icon: "fab fa-linkedin"
-  url: 'https://www.linkedin.com/in/aouledissa'
+# - type: linkedin
+  # icon: "fab fa-linkedin"
+  # url: 'https://www.linkedin.com/in/aouledissa'
 
 # - type: email
 #   icon: "fas fa-envelope"
