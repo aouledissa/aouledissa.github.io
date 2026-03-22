@@ -23,7 +23,7 @@ title: Mohamed Aouled Issa # the main title
 tagline: Android Software Engineer and Tech Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Follow me on my learning journey and experiments.
+  Android Software Engineer sharing insights on Android development, Kotlin, Gradle plugins, open-source tools, and software engineering best practices.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://aouledissa.com"
@@ -47,7 +47,7 @@ social:
     - https://github.com/aouledissa # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/aouledissa
+    - https://www.linkedin.com/in/aouledissa
 
 google_site_verification: # fill in to your verification string
 

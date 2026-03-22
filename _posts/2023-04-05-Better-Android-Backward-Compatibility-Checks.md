@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Better Android Backward Compatibility Checks 👍"
+description: "A practical approach to cleaning up Android SDK version checks — replace verbose, repetitive Build.VERSION.SDK_INT conditionals with reusable, testable Kotlin utility functions."
 date: 2023-04-05 03:43:00
-category: Android
-tags: [android,backward-compatibility]
+categories: [Android]
+tags: [android, backward-compatibility, kotlin, sdk, best-practices]
 ---
 
 As an android developer, did you ever grew so frustrated with checking the device's Android OS version when using some Android SDK feature that has different implementations between Android versions? 🤔

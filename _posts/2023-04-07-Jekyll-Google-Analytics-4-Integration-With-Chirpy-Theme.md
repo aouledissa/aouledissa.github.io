@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Jekyll Google Analytics 4 (GA 4) Integration With Chirpy Theme 📊"
+description: "Step-by-step guide to integrating Google Analytics 4 with a Jekyll site using the Chirpy theme — including gtag setup, pageview tracking, and environment-aware configuration."
 date: 2023-04-07 22:33
-categories: [Jekyll,setup]
-tags: [jekyll,GA4,chirpy]
+categories: [Jekyll, Setup]
+tags: [jekyll, GA4, google-analytics, chirpy, analytics, tracking]
 toc: true
 ---
 
-![Retro cassette player in garage](/assets/analytics-on-screen.jpeg)
+![Google Analytics dashboard showing website traffic and engagement metrics](/assets/analytics-on-screen.jpeg)
 _Photo Credit [campaign creators](https://unsplash.com/@campaign_creators)_
 
 Google Analytics (GA) 4 is the latest iteration of the popular web analytics platform, offering powerful insights into user behavior and site performance. If you're using Chirpy theme on a jekyll powered website you know that the instruction in the docs does not support GA4, hence you won't be able to track page views (PV) anymore. 
