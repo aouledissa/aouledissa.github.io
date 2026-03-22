@@ -6,7 +6,7 @@ order: 4
 
 # **🚀 Welcome to My Coding Universe! 🌌**
 
-Hi there, fellow code enthusiasts! My name is Mohamed (a.k.a __Issa__), and I'm an Android software engineer with 6️⃣ years of experience in crafting pixel-perfect, high-performance apps that users love. I'm on a mission to learn, explore, and experiment in this vast and ever-evolving world of technology. 🎯
+Hi there, fellow code enthusiasts! My name is Mohamed, and I'm an Android software engineer with 10 years of experience in crafting pixel-perfect, high-performance apps that users love. I'm on a mission to learn, explore, and experiment in this vast and ever-evolving world of technology. 🎯
 
 ```mathematica
 🤖 Fun Fact: I am an android, so I code in my sleep! (Just kidding, I don't sleep. I just code 24/7!) 😆
